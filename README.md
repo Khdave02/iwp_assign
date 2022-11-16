@@ -80,5 +80,5 @@ Lets the client add product to the database. the product is instantly added and 
 ### About
 Contains information about the website.
 ## Contributors
-* Aditya Jivoji
-* Khushi Dave
+* [Aditya Jivoji](https://github.com/adityajivoji)
+* [Khushi Dave](https://github.com/Khdave02)
