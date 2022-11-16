@@ -77,9 +77,9 @@ Contains EJS scripts which load the data from the database and display on the we
 3. Subsequently followed by rows that contain upto 6 product cards.
 4. Ends with the footer.
 
-:::info
-Show by brand, show by category, show by sorted order, and show all use the same EJS and css file. This is achieved by passing relavant product like from the controller.
-:::
+
+! Show by brand, show by category, show by sorted order, and show all use the same EJS and css file. This is achieved by passing relavant product like from the controller.
+
 ### All Page:
 Shows all the products present in the database.
 ### Show by Brand
