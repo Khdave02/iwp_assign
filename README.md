@@ -1,18 +1,21 @@
 # [Window Shopping Website](https://iwp-assign1.herokuapp.com/products)
 
-## Create .env file
-Create a .env file to store your MongoDB database credentials
+
+## Running this project locally on your computer
 
 ```
+1. Download and extract the repository
+2. create a file with the name ".env" where app.js exist
+3. Paste the below line in the file
 DB_URL = "mongodb+srv://iwp:dave@cluster0.r8hc1im.mongodb.net/?retryWrites=true&w=majority"
-```
-
-## Installation
-To run this project, install it locally using npm:
-
-```
-$ npm install
-$ npm app.js
+4. on the terminal travel to the path where app.js exist
+5. run "npm install"
+6. run "node app.js"
+7. You should see a message saying 
+"Window Shopping App server is started in port 3000
+Database connected"
+8. Go to your browser then type "localhost:3000"
+9. The website should run now
 ```
 
 ## Description
