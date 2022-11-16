@@ -78,7 +78,7 @@ Contains EJS scripts which load the data from the database and display on the we
 4. Ends with the footer.
 
 ```diff
-Show by brand, show by category, show by sorted order, and show all use the same EJS and css file. This is achieved by passing relavant product like from the controller.
+!Show by brand, show by category, show by sorted order, and show all use the same EJS and css file. This is achieved by passing relavant product like from the controller.
 ```
 
 ### All Page:
