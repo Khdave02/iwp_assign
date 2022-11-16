@@ -10,7 +10,7 @@
 * [Contributors](https://github.com/Khdave02/iwp_assign/blob/main/README.md#contributors)
 
 ## Running this project locally on your computer
-
+Pre-requisite: MongoDB and Node.js should be installed on your device
 ```
 1. Download and extract the repository
 2. create a file with the name ".env" in the directory where app.js exist
@@ -22,8 +22,10 @@ DB_URL = "mongodb+srv://iwp:dave@cluster0.r8hc1im.mongodb.net/?retryWrites=true&
 7. You should see a message saying 
 "Window Shopping App server is started in port 3000
 Database connected"
-8. Go to your browser then type "localhost:3000"
-9. The website should run now
+8. If the above message doesn't show up then try running the following command then retry all the steps from step-5
+npm i connect-flash cookie-parser dotenv ejs express express-ejs-layouts express-fileupload express-session mongodb mongoose
+9. Go to your browser then type "localhost:3000"
+10. The website should run now
 ```
 
 ## Description
