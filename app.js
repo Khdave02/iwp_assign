@@ -32,6 +32,6 @@ app.use("/",routes);
 
 
 // //TO START EXPRESS APP
-app.listen(3000, () => {
+app.listen(process.env.PORT || 3000, () => {
   console.log(`Window Shopping App server is started in port 3000`);
 });
