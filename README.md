@@ -1,4 +1,19 @@
-# [Window Shopping Website]([https://hackmd.io/c/tutorials](https://iwp-assign1.herokuapp.com/products))
+# [Window Shopping Website](https://iwp-assign1.herokuapp.com/products)
+
+## Create .env file
+Create a .env file to store your MongoDB database credentials
+
+```
+DB_URL = "mongodb+srv://iwp:dave@cluster0.r8hc1im.mongodb.net/?retryWrites=true&w=majority"
+```
+
+## Installation
+To run this project, install it locally using npm:
+
+```
+$ npm install
+$ npm app.js
+```
 
 ## Description
 This website platform serves as a medium to share your opinion on any product. Can be used by product designers to host their product online and get reviews from people who read about it. The main idea is to get reviews from potential-customers and critics about the product right from the designing stage.
