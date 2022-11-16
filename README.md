@@ -1,5 +1,13 @@
 # [Window Shopping Website](https://iwp-assign1.herokuapp.com/products)
 
+## Table of Content:
+* [Running this project locally on your computer](https://github.com/Khdave02/iwp_assign/blob/main/README.md#running-this-project-locally-on-your-computer)
+* [Description](https://github.com/Khdave02/iwp_assign/blob/main/README.md#description)
+* [Frameworks and Tools used](https://github.com/Khdave02/iwp_assign/blob/main/README.md#frameworks-and-tools-used)
+* [Database](https://github.com/Khdave02/iwp_assign/blob/main/README.md#database)
+* [Modules](https://github.com/Khdave02/iwp_assign/blob/main/README.md#modules)
+* [Website-Design](https://github.com/Khdave02/iwp_assign/blob/main/README.md#website-design)
+* [Contributors](https://github.com/Khdave02/iwp_assign/blob/main/README.md#contributors)
 
 ## Running this project locally on your computer
 
