@@ -5,7 +5,7 @@
 
 ```
 1. Download and extract the repository
-2. create a file with the name ".env" where app.js exist
+2. create a file with the name ".env" in the directory where app.js exist
 3. Paste the below line in the file
 DB_URL = "mongodb+srv://iwp:dave@cluster0.r8hc1im.mongodb.net/?retryWrites=true&w=majority"
 4. on the terminal travel to the path where app.js exist
