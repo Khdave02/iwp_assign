@@ -9,7 +9,7 @@
 * [Website-Design](https://github.com/Khdave02/iwp_assign/blob/main/README.md#website-design)
 * [Contributors](https://github.com/Khdave02/iwp_assign/blob/main/README.md#contributors)
 
-## Running this project locally on your computer
+## Running this project locally on your computer:
 Pre-requisite: MongoDB and Node.js should be installed on your device
 ```
 1. Download and extract the repository
@@ -93,6 +93,6 @@ Loads the details of the product along with the review about the product. There 
 Lets the client add product to the database. the product is instantly added and can be viewed in the latest for the brand list on Homepage.
 ### About
 Contains information about the website.
-## Contributors
+## Contributors:
 * [Aditya Jivoji](https://github.com/adityajivoji)
 * [Khushi Dave](https://github.com/Khdave02)
